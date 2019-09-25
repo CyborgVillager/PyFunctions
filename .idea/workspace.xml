@@ -43,7 +43,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.MultipleValuesreturned">
+  <component name="RunManager" selected="Python.MyProgram">
     <configuration name="MultipleValuesreturned" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PyFunctions" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -66,7 +66,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="functions00" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="MyProgram" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PyFunctions" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -79,7 +79,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functions00.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\jalmawi\PyFunctions\Module\MyProgram.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.MyProgram" />
         <item itemvalue="Python.MultipleValuesreturned" />
         <item itemvalue="Python.returningvlaue" />
         <item itemvalue="Python.global_variable" />
         <item itemvalue="Python.passingargs" />
-        <item itemvalue="Python.functions00" />
       </list>
     </recent_temporary>
   </component>
@@ -175,7 +175,7 @@
       <option name="presentableId" value="Default" />
       <updated>1569425104978</updated>
       <workItem from="1569425107820" duration="1268000" />
-      <workItem from="1569427064801" duration="4909000" />
+      <workItem from="1569427064801" duration="5122000" />
     </task>
     <servers />
   </component>
@@ -201,5 +201,6 @@
     <SUITE FILE_PATH="coverage/PyFunctions$passingargs.coverage" NAME="passingargs Coverage Results" MODIFIED="1569429913132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PyFunctions$returningvlaue.coverage" NAME="returningvlaue Coverage Results" MODIFIED="1569431796728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PyFunctions$MultipleValuesreturned.coverage" NAME="MultipleValuesreturned Coverage Results" MODIFIED="1569431947626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyFunctions$MyProgram.coverage" NAME="MyProgram Coverage Results" MODIFIED="1569432189313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

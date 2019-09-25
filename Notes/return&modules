@@ -1,5 +1,13 @@
 return expression1, expression2, expression3, etc
 
-def getName():
+e.g def getName():
     return "John","Smith"
 first,last = getNAme()
+
+Storing functions in modules
+Modularizaton grouping related functions in modules
+    -make prog easier to usderstand, test, maintain
+    -easier to reuse for multiple diff programs
+    -to use module -> import it 1st
+    -its basically a file must have ext. py,
+    -import statement
