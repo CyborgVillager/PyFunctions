@@ -7,6 +7,8 @@ myValue = int(input('Enter a number to be \n' +
 #more use of this will create spageti code
 #global constant on the other hand is a good thing like myValue=10
 
+
+#functions
 def showValue():
     print(myValue)
 
@@ -16,5 +18,13 @@ def main():
     myValue = 9
     showValue()
 
+def connect_function():
+    print('\n')
+    print('connect function result:')
+    main()
+    showValue()
+
+#result
 showValue()
 main()
+connect_function()
