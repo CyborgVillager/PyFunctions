@@ -26,6 +26,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jalmawi\PyFunctions\Notes" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -78,7 +83,7 @@
       <option name="presentableId" value="Default" />
       <updated>1569425104978</updated>
       <workItem from="1569425107820" duration="1268000" />
-      <workItem from="1569427064801" duration="2329000" />
+      <workItem from="1569427064801" duration="2450000" />
     </task>
     <servers />
   </component>
