@@ -23,4 +23,11 @@ usually its the input, int, and float functions are value returning functions.
 main function:called when other program starts
 -calls other functions when they are needed
 - defines the main logic of the program
+
+
+#Flow charts define the logic steps
+#Hierachy chart are used to define the relationships between the functions
+- AKA strucuture chart
+-Box for each function in the program. Lines connecting boxes
+
 '''''''''''''''
