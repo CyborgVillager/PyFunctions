@@ -19,4 +19,8 @@ void function - no data returns
 
 value-returning function - executes the statment it contains
 usually its the input, int, and float functions are value returning functions.
+
+main function:called when other program starts
+-calls other functions when they are needed
+- defines the main logic of the program
 '''''''''''''''
