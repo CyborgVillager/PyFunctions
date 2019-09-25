@@ -1,0 +1,5 @@
+LOcal var : variable assigned to a value inside a function locally access
+
+
+Scope: the part of a program in which a vairbale may be accessed
+    -For local vairbale: function in which created
