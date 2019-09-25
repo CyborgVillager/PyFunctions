@@ -1,0 +1,5 @@
+return expression1, expression2, expression3, etc
+
+def getName():
+    return "John","Smith"
+first,last = getNAme()
