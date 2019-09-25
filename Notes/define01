@@ -3,3 +3,10 @@ LOcal var : variable assigned to a value inside a function locally access
 
 Scope: the part of a program in which a vairbale may be accessed
     -For local vairbale: function in which created
+
+Argument: its a piece of data that is sent intoa  function
+    -function cna use args in calcs
+    -When calling the function, the arg is placed in () followed by fucntion name
+    -e.g def function_name(arg): or can be looked at -> def function_name(x,y):
+    - def divide(n, d):
+
