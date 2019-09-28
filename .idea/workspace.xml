@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a84a5469-ce7e-406e-a9cb-89642fa2085a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Assignment_work/algorworkbench.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_work/kilometerconverter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_work/salestaxreformat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment_work/saletaxrefacor.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -185,7 +183,7 @@
       <updated>1569425104978</updated>
       <workItem from="1569425107820" duration="1268000" />
       <workItem from="1569427064801" duration="5787000" />
-      <workItem from="1569629095361" duration="22674000" />
+      <workItem from="1569629095361" duration="23468000" />
     </task>
     <servers />
   </component>
