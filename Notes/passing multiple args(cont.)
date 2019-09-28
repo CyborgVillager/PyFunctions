@@ -1,0 +1,22 @@
+passing multiple args by position
+
+changes made to a parameter value within a function does not affect the argument
+    - know as pass by value
+    - provide unidirection comms
+
+Global variable: created outside of all functions , can be acced by any statemt in the program file
+within a function
+
+if to make a funciton global just do -> global variable_name
+
+myValue = 10
+
+def showValue():
+    print(myValue)
+
+def main():
+    global myValue
+    myValue= 9
+    showValue()
+
+main()
