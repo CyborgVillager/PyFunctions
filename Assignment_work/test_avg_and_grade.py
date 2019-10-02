@@ -8,17 +8,13 @@ def main():
     grade_0 = float(input('Enter a grade number for student_0:'))
 
 
-
     grade_1 = float(input('Enter a grade number for student_1:'))
-
 
 
     grade_2 = float(input('Enter a grade number for student_2:'))
 
 
-
     grade_3 = float(input('Enter a grade number for student_3:'))
-
 
 
 
@@ -26,10 +22,7 @@ def main():
 
 
 
-
     grade_5 = float(input('Enter a grade number for student_5:'))
-
-
 
     grade_6 = float(input('Enter a grade number for student_6:'))
 
@@ -38,6 +31,7 @@ def main():
 
     print('The class total grade is ', sum_total, ' points' \
           'and the class avg is', sum_avg)
+
 
 
 def sum(grade_0,grade_1,grade_2,grade_3,grade_4,grade_5,grade_6):

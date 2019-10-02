@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a84a5469-ce7e-406e-a9cb-89642fa2085a" name="Default Changelist" comment="" />
+    <list default="true" id="a84a5469-ce7e-406e-a9cb-89642fa2085a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/grading.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/salextaxreform.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment_work/test_avg_and_grade.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment_work/test_avg_and_grade.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +32,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../cleverprogassign/PythonMegaCourse/Dictionary" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -48,29 +53,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test_avg_and_grade">
-    <configuration name="autombile_costs" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PyFunctions" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Assignment_work" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Assignment_work/autombile_costs.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.grading">
     <configuration name="global_variable" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PyFunctions" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -93,7 +76,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="houseval" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="grading" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PyFunctions" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -101,12 +84,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Assignment_work" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Assignment_work/houseval.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/grading.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -129,6 +112,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Assignment_work/other auto.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="salextaxreform" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PyFunctions" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/salextaxreform.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.grading" />
+        <item itemvalue="Python.salextaxreform" />
         <item itemvalue="Python.test_avg_and_grade" />
         <item itemvalue="Python.global_variable" />
         <item itemvalue="Python.other auto" />
-        <item itemvalue="Python.autombile_costs" />
-        <item itemvalue="Python.houseval" />
       </list>
     </recent_temporary>
   </component>
@@ -181,7 +186,9 @@
       <updated>1569425104978</updated>
       <workItem from="1569425107820" duration="1268000" />
       <workItem from="1569427064801" duration="5787000" />
-      <workItem from="1569629095361" duration="35819000" />
+      <workItem from="1569629095361" duration="35905000" />
+      <workItem from="1569987317514" duration="2533000" />
+      <workItem from="1570022868946" duration="729000" />
     </task>
     <servers />
   </component>
@@ -216,7 +223,8 @@
     <SUITE FILE_PATH="coverage/PyFunctions$MultipleValuesreturned.coverage" NAME="MultipleValuesreturned Coverage Results" MODIFIED="1569629114916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PyFunctions$random_numbers3.coverage" NAME="random_numbers3 Coverage Results" MODIFIED="1569646412920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module" />
     <SUITE FILE_PATH="coverage/PyFunctions$sale_price.coverage" NAME="sale_price Coverage Results" MODIFIED="1569659630959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PyFunctions$test_avg_and_grade.coverage" NAME="test_avg_and_grade Coverage Results" MODIFIED="1569708868141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment_work" />
+    <SUITE FILE_PATH="coverage/PyFunctions$test_avg_and_grade.coverage" NAME="test_avg_and_grade Coverage Results" MODIFIED="1569989795459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment_work" />
+    <SUITE FILE_PATH="coverage/PyFunctions$salextaxreform.coverage" NAME="salextaxreform Coverage Results" MODIFIED="1569989802355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PyFunctions$howmuchinsurance.coverage" NAME="howmuchinsurance Coverage Results" MODIFIED="1569705532842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment_work" />
     <SUITE FILE_PATH="coverage/PyFunctions$houseval.coverage" NAME="houseval Coverage Results" MODIFIED="1569706430553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment_work" />
     <SUITE FILE_PATH="coverage/PyFunctions$coin_toss.coverage" NAME="coin_toss Coverage Results" MODIFIED="1569647909544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module" />
@@ -229,6 +237,7 @@
     <SUITE FILE_PATH="coverage/PyFunctions$global_variable.coverage" NAME="global_variable Coverage Results" MODIFIED="1569707739951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PyFunctions$kilometerconverter.coverage" NAME="kilometerconverter Coverage Results" MODIFIED="1569685864580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment_work" />
     <SUITE FILE_PATH="coverage/PyFunctions$returnresults.coverage" NAME="returnresults Coverage Results" MODIFIED="1569658607634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module" />
+    <SUITE FILE_PATH="coverage/PyFunctions$grading.coverage" NAME="grading Coverage Results" MODIFIED="1570023559412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PyFunctions$returningvlaue.coverage" NAME="returningvlaue Coverage Results" MODIFIED="1569431796728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PyFunctions$autombile_costs.coverage" NAME="autombile_costs Coverage Results" MODIFIED="1569707292460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment_work" />
   </component>
